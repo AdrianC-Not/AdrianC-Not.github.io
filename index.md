@@ -19,4 +19,3 @@ My GitHub page is http://github.com/AdrianC-Not.
   Lab 12
 
     Lab 12 part 1, We thought that both parts of this lab in general were really cool. I am into animation and in this lab we created a little animation between different colors. This lab was very difficult for us to complete however we got stuck on so many parts. Still it helped us improve our skills and allowed us to see what coding could accomplish.
-
